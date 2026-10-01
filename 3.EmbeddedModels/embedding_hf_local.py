@@ -12,7 +12,7 @@ documents=[
     "Jasprit Bumrah is an Indian fast bowler known for his unorthodox action and yorkers."
 ]
 
-query = "make a summary of cricketer"
+query = "Sachin Tendulkar"
 
 # text = 'my name is priyanshu yadav'
 
